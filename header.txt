@@ -1,2 +1,2 @@
 some text for header
-Cheange from <master>
+Cheange from <master> - new cheanges
